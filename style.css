@@ -75,7 +75,7 @@ nav{
     width: 20%;
     height: 35%;
     position: absolute;
-    top: 600px;
+    top: 500px;
     bottom: ;
     left: 250px;
     right: ;
@@ -83,4 +83,10 @@ nav{
 #imagem-principal{
     width: 75%;
     border: 3px dotted red;
+}
+
+.profDrielle{
+    border: 5px solid chocolate;
+    display: inline-block;
+    border-radius: 10px;
 }
